@@ -1,20 +1,2 @@
 title: Jekyll test page
 markdown: kramdown
-
-theme: "just-the-docs"
-
-# ナビゲーションのソートなど追加設定
-just_the_docs:
-  logo: /assets/logo.svg
-  # ──────────────────────────
-  # 左サイドバー (全体ナビ)
-  navigation:
-    - title: Home
-      url: /
-    - title: Sample
-      url: /sample/
-    # 以降、好きなだけセクションを追加
-  # ──────────────────────────
-  # 右サイドバー (目次) を常に表示
-  detect_path: false
-  show_toc: true
